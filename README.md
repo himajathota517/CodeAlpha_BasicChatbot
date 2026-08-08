@@ -36,6 +36,10 @@ Build a simple rule-based chatbot.
    - bye
 4. View the chatbot responses.
 
+## Note
+GitHub Codespaces usage limit was reached. 
+Please run the project locally using VS Code + Python 3.
+
 ## Sample Output
 ```
 Welcome to the Basic Chatbot!
